@@ -5,6 +5,7 @@
 The HR Analytics Dashboard is an interactive Power BI dashboard designed to help Human Resource teams analyze workforce demographics, salary distribution, employee growth, leave balances, and workforce trends. The dashboard provides actionable insights that support data-driven HR decisions regarding recruitment, compensation, workforce planning, and employee management.
 
 🎯 Project Objectives
+
 Analyze employee demographics and workforce composition.
 Monitor salary distribution across different job roles.
 Identify top earners within each department.
@@ -15,6 +16,7 @@ Enable dynamic employee filtering for quick search and analysis.
 
 
 📊 Dashboard Features
+
 1. Employee Distribution by Job Role
 Displays the total number of employees in each job position.
 Helps HR understand workforce allocation across departments.
@@ -47,6 +49,7 @@ Helps monitor employee leave utilization.
 
 
 🛠️ Tools & Technologies
+
 Power BI Desktop
 Power Query
 DAX (Data Analysis Expressions)
@@ -54,6 +57,7 @@ Microsoft Excel
 Data Modeling
 
 📈 Key KPIs
+
 Total Employees
 Total Departments
 Average Salary
